@@ -1,0 +1,40 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Playwrite+AR:wght@100..400&display=swap');
+
+
+body {
+    /*fonte*/
+    font-family: "Playwrite AR", cursive;
+    /*tamanho da fonte*/
+    font-size: 15px;
+    /*modificações na fonte(ex: negrito*/
+    font-weight: bold;
+    /*taamanho do espaçamento entre linhas*/
+    line-height: 1.5;
+    /*local que o tetxo ficará*/
+    /*text-align: justify;
+    /* sublinhar*/
+    text-decoration: underline;
+    width: 50%;
+    margin: 0 auto;
+}
+
+
+ 
+/*h1 {
+   
+   /* border: solid white 15px;
+    margin: 150px;
+    margin-right: 150px;
+    margin-top: 50px;
+    margin-bottom: 500px;
+}
+h2 {
+    border: solid palevioletred 15px;
+    margin: 20px 56px 566px;
+    padding: 500px;
+}
+div {
+    width: 50%;
+    margin: 0 auto;
+}
