@@ -1,0 +1,27 @@
+body {
+
+text-align: center;
+}
+.card:hover {
+    background-color: deeppink;
+    cursor: pointer;
+    opacity: 50%;
+    transform: scale(1.1);
+}
+
+.container{
+
+display: flex;
+justify-content:center;
+
+
+}
+.container div {
+background-color: rgb(205, 34, 140);
+margin: 10px;
+padding: 10px;
+border-radius: 10px;
+border-top-left-radius: 20px;
+}
+
+
